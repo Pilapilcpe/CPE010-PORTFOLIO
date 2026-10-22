@@ -15,9 +15,9 @@ This repository contains all activities and programming tasks completed for CPE0
 👉[MacroTracker](https://github.com/NatMendoza/CPE009A-FINAL-PROJECT-OOP1.git)
 
 ## Contents
-- PRELIM
-- MIDTERM
-- FINAL
+- 🟡 PRELIM
+- 🔵 MIDTERM
+- 🟣 FINAL
   
 ##
 <p align="center">
