@@ -1,4 +1,5 @@
 # CPE010 - DATA STRUCTURES AND ALGORITHMS - PORTFOLIO
+
 This repository contains all activities and programming tasks completed for CPE010.
 
 ## 👤 About Me
