@@ -1,7 +1,9 @@
-# CPE010 - DATA STRUCTURES AND ALGORITHMS
+
 <div align="center">
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif" width="700"/>
+<img width="1152" height="648" alt="Black Futuristic Animated Programmer Presentation" src="https://github.com/user-attachments/assets/6ecedef9-70c5-4a8d-9a50-7be641226ec8" />
+
+
 
 This repository contains all activities and programming tasks completed for CPE010.
 </div>
