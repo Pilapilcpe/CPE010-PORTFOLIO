@@ -1,6 +1,11 @@
-# CPE010 - DATA STRUCTURES AND ALGORITHMS - PORTFOLIO
+# CPE010 - DATA STRUCTURES AND ALGORITHMS
+<div align="center">
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif" width="700"/>
 
 This repository contains all activities and programming tasks completed for CPE010.
+</div>
+
 
 ## 👤 About Me
 
