@@ -20,6 +20,10 @@ This repository contains all activities and programming tasks completed for CPE0
 - 🟣 FINAL
   
 ##
+
+## 👍ACKNOWLEDGEMENT
+Developed as part of our DATA STRUCTURES AND ALGORITHM course requirement.
+
 <p align="center">
   <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="600">
 </p>
