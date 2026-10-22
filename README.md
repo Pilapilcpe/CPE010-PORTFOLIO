@@ -1,4 +1,4 @@
-# CPE010 - CPE21S1 - DATA STRUCTURES AND ALGORITHMS - PORTFOLIO
+# CPE010 - DATA STRUCTURES AND ALGORITHMS - PORTFOLIO
 This repository contains all activities and programming tasks completed for CPE010.
 
 ## 👤 About Me
