@@ -6,13 +6,18 @@
 This repository contains all activities and programming tasks completed for CPE010.
 </div>
 
-
+## Contents
+- 🟡 PRELIM
+- 🔵 MIDTERM
+- 🟣 FINAL
+  
+##
 ## 👤 About Me
 
 **Name:** Loreen Jae D. Pilapil  
 **Section:** CPE21S1
 
-### Currently Learning
+## Currently Learning
 - 🐍 Python
 - 💻 C++
 
@@ -20,12 +25,7 @@ This repository contains all activities and programming tasks completed for CPE0
 👉[Lost and Found Tracker](https://github.com/Pilapilcpe/CPE201A_FP_PILAPIL.git) <br>
 👉[MacroTracker](https://github.com/NatMendoza/CPE009A-FINAL-PROJECT-OOP1.git)
 
-## Contents
-- 🟡 PRELIM
-- 🔵 MIDTERM
-- 🟣 FINAL
-  
-##
+
 
 ## 👍ACKNOWLEDGEMENT
 Developed as part of our DATA STRUCTURES AND ALGORITHM course requirement.
